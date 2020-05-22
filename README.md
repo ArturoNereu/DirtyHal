@@ -7,7 +7,7 @@ Dirty Hal is no longer available on the mobile stores :( but as a way to preserv
 
 ![Hal Turntable](https://github.com/ArturoNereu/DirtyHal/blob/master/Hal/Concept%20Art/V%204.0/Hal_360.JPG)
 
-We have added different sections, for a better viewing experience, we recommend cloning the project to your machine, as most of what we have here are images.
+We have added different sections, for a better viewing experience, we recommend cloning the project to your machine.
 
 * [Hal](https://github.com/ArturoNereu/DirtyHal/tree/master/Hal/)
 * [Mini games](https://github.com/ArturoNereu/DirtyHal/tree/master/Mini%20Games)

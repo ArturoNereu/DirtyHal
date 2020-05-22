@@ -28,3 +28,4 @@ The game was made with **Unity**.
 * Ángel Sánchez
 * Carlos López
 
+For almost everything animated in the game, we used **Spine** and it's Unity runtime, but with the provided sprites you should be able to recreate the animations in any tool.    

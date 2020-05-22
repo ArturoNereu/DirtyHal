@@ -29,3 +29,5 @@ The game was made with **Unity**.
 * Carlos López
 
 For almost everything animated in the game, we used **Spine** and it's Unity runtime, but with the provided sprites you should be able to recreate the animations in any tool.    
+
+![Hal Face](https://github.com/ArturoNereu/DirtyHal/blob/master/MarketingArt/General/Screen%20Shot%202016-10-23%20at%201.35.57%20PM.png)
